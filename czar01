@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<body>
+    <div>
+
+        <nav>
+            nafisa
+        </nav>
+        <div class="javoh11">
+            <div class="javoh">
+
+            </div>
+            <div class="java">
+                <div>
+                    <h3 class="java3">About us</h3>
+                </div>
+                <div class="java1">
+                    <h1>Bringing people together <br> through the game of padel. </h1>
+                </div>
+                <div class="java2">
+                    <h1 class="javah1">Easy to learn <br>Highly social <br>Fast & exciting</h1>
+                </div>
+                <div class="java4">
+                    <h3 class="java5">Where players meet, <br> compete, and improve.</h3>
+                    <button class="java6">More about paddle photo</button>
+                </div>
+            </div>
+            <div>
+                    
+            </div>
+        </div>
+      </div>
+      <div>iroda</div>
+      <div>murod</div>
+      <footer>
+        <div class="xoji">
+          <h1 class="xoji1">Start playing today.</h1>
+          <button class="xoji2">Book a court</button>
+          <button class="xoji3">buy membership</button>
+        <div>
+            iroda
+            <div class="irodadiv">
+                <h1 class="irodah1">It’s a community</h1>
+                <h1 class="irodah2">Padel is more than a sport.</h1>
+                <h1 class="irodah3">Our courts welcome everyone who loves padel, whether <br> you're new or training for tournaments.</h1>
+            </div>
+            <div class="irodahh2s">
+            <i class=" irodafont fa-solid fa-users"></i>
+            <h1 class="iroda2">8,500+</h1>
+            <h1 class="irodah44">Active Players</h1>
+            </div>
+        </div>
+        <div class="xoji4">
+          <img
+            src="https://cdn.prod.website-files.com/69ad514c1d0ccdd25cfd2216/69b0386c559cd8f79a5ba6aa_Vector%2011.svg"
+            alt="fe"
+          />
+          <ul class="xoji7">
+            <li class="xoji5">Company</li>
+            <li class="xoji6">home</li>
+            <li class="xoji6">About us</li>
+            <li class="xoji6">testimonials</li>
+          </ul>
+          <ul class="xoji7">
+            <li class="xoji5">Programs</li>
+            <li class="xoji6">Beginner Lessons</li>
+            <li class="xoji6">Group Training</li>
+            <li class="xoji6">Private Coaching</li>
+          </ul>
+          <ul class="xoji7">
+            <li class="xoji5">Activities</li>
+            <li class="xoji6">Padel</li>
+            <li class="xoji6">Pickleball</li>
+            <li class="xoji6">Squash</li>
+          </ul>
+          <ul class="xoji7">
+            <li class="xoji5">Get in touch</li>
+            <li class="xoji6">Contact us</li>
+          </ul>
+          <h3 class="xoji8">© Netplay. All Rights Reserved.Licening</h3>
+          <span class="xoji9"><i class="fa-brands fa-youtube"></i></span>
+          <span class="xoji10"><i class="fa-brands fa-telegram"></i></span>
+          <span class="xoji11"><i class="fa-brands fa-instagram"></i></span>
+          <h3 class="xoji12">Template by wCopilott Powered by Webflow</h3>
+        <div>
+            <div class="otadiv">
+                <h1 class="murod">“Amazing facilities and <br> perfectly maintained courts. <br> I come here every week.”</h1>
+                <h1 class="murod2">Lucas G.</h1>
+                <img class="murod5" src="https://img.freepik.com/premium-photo/tennis-game-tennis-balls-rackets-background_488220-3598.jpg?semt=ais_hybrid&w=740&q=80" alt="">
+                <p class="murod3">Regular Client</p>
+                <button class="murod4">Meet our team</button>
+            </div>
+            <div>
+                <p class="murod6">Pricing Plans</p>
+                <p class="murod7">Choose the plan that fits your level and <br> start improving your game with <br> professional coaching and premium courts.</p>
+                <p class="murod8">Advanced Plan</p>
+                <p class="murod9">For players who want to <br> improve their performance</p>
+                <h1 class="murod10">$89</h1>
+                <p class="murod11">/ month</p>
+                <img class="murod13" src="https://cdn.prod.website-files.com/68d28b77dc033fd1054dd75e/690aac908ea47d44e666d5c4_ef8105474c04cc1117ca9aa33a621275_home-hero-main-img.webp" alt="">
+                <button class="murod12">Join now</button>
+            </div>
+        </div>
+      </footer>
+    </div>
+</body>
+
+</html>
